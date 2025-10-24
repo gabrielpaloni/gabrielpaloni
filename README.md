@@ -20,5 +20,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpaloni/gabrielpaloni/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpaloni/gabrielpaloni/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielpaloni/gabrielpaloni/output/github-contribution-grid-snake.svg">
 </picture>
