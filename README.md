@@ -8,13 +8,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um estudante de **Ciência da Computação (4º Semestre)** na UNIP e **Professor de Inglês** com 3 anos de experiência.
+Sou um estudante de **Ciência da Computação (5º Semestre)** na UNIP e **Professor de Inglês** com 3 anos de experiência.
 
 Atualmente, estou focado em aplicar a comunicação, a didática e a organização que desenvolvi como professor no mundo do desenvolvimento de software. Meu objetivo é usar minha paixão por tecnologia para resolver problemas e criar soluções eficientes.
 
 Estou **ativamente buscando uma oportunidade de estágio** para aplicar e expandir meus conhecimentos em um ambiente profissional.
 
-- 🎓 Cursando **Ciência da Computação** (4º Semestre) na UNIP.
+- 🎓 Cursando **Ciência da Computação** (5º Semestre) na UNIP.
 - 👨‍🏫 **Professor de Inglês** (3+ anos de experiência).
 - 🚀 **Buscando uma oportunidade de estágio** em Desenvolvimento de Software.
 
