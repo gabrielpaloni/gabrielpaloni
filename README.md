@@ -4,10 +4,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api?username=gabrielpaloni&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do Gabriel" />
+        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api?username=gabrielpaloni&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do Gabriel" />
       </td>
       <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gabrielpaloni&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" alt="Tecnologias de Gabriel" />
+        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gabrielpaloni&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br&hide_border=true" alt="Tecnologias de Gabriel" />
       </td>
     </tr>
   </table>
