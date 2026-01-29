@@ -6,8 +6,6 @@
   <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=gabrielpaloni&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
   <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gabrielpaloni&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br&hide_border=true" />
 </p>
-
-## 👨‍💻 Sobre Mim
 </div>
 
 ## 👨‍💻 Sobre Mim
