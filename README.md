@@ -1,14 +1,13 @@
 # Olá, eu sou o Gabriel Paloni! 👋
 
 <div align="center">
-    <tr>
-      <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api?username=gabrielpaloni&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do Gabriel" />
-      </td>
-      <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gabrielpaloni&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br&hide_border=true" alt="Tecnologias de Gabriel" />
-      </td>
-    </tr>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=gabrielpaloni&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gabrielpaloni&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br&hide_border=true" />
+</p>
+
+## 👨‍💻 Sobre Mim
 </div>
 
 ## 👨‍💻 Sobre Mim
