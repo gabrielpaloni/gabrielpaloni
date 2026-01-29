@@ -1,8 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=200&section=header&text=Gabriel%20Paloni&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Gabriel+Paloni!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Python+%26+Java+Developer+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=7AA2F7&vCenter=true&duration=3000&pause=2000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%F0%9F%92%BB;Python+%26+Java+Developer+%E2%98%95&font=Fira%20Code&center=true&width=440&height=45&color=7AA2F7&vCenter=true&duration=3000&pause=2000&size=22" /></a>
 </p>
 
 <div align="center">
@@ -23,6 +23,14 @@ I am **actively looking for an internship opportunity** to apply and expand my k
 - 🎓 **Computer Science Major** (5th Semester) at UNIP.
 - 👨‍🏫 **English Teacher** (3+ years of experience).
 - 🚀 **Seeking an internship** in Software Development / Data Analysis.
+
+<br />
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1kNfIAcwE5s1ARh4_S5y-KBlPZYC_n44A?hl=pt-br" target="_blank">
+    <img src="https://img.shields.io/badge/Download_My_CV-7AA2F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</div>
+<br />
 
 ## 📫 How to reach me
 
@@ -55,14 +63,23 @@ I am **actively looking for an internship opportunity** to apply and expand my k
 </p>
 
 <details open>
-
   <summary><h2>📘 My Top Projects</h2></summary>
+
   <p align="left">
-    <a href="https://github.com/gabrielpaloni/aether-personal-assistant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabrielpaloni&repo=aether-personal-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/gabrielpaloni/aps_2_sem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabrielpaloni&repo=aps_2_sem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/gabrielpaloni/APS-4-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gabrielpaloni&repo=APS-4-Semestre&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/gabrielpaloni/aether-personal-assistant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabrielpaloni&repo=aether-personal-assistant&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=true" alt="Aether"></a>
+    <a href="https://github.com/gabrielpaloni/aps_2_sem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gabrielpaloni&repo=aps_2_sem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false" alt="Aps_2_sem"></a>
+    <a href="https://github.com/gabrielpaloni/APS-4-Semestre"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gabrielpaloni&repo=APS-4-Semestre&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false" alt="Aps_4_sem"></a>
+    <a href="https://github.com/gabrielpaloni/Estrutura-de-Dados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gabrielpaloni&repo=Estrutura-de-Dados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="EDD"></a>
+    <a href="https://github.com/gabrielpaloni/calculadora-sist-numericos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gabrielpaloni&repo=calculadora-sist-numericos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="Calc-sis-num"></a>
+    <a href="https://github.com/gabrielpaloni/calc_bin_html"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gabrielpaloni&repo=calc_bin_html&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=7AA2F7&show_icons=false&show_description=false" alt="Calc-bin"></a>
   </p>
 
   <a href="https://github.com/gabrielpaloni?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=100&section=footer&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Tech Quote">
+</p>
