@@ -14,15 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science student (5th Semester)** at UNIP and an **English Teacher** with 3+ years of experience.
+I am a **Computer Science student (5th Semester)** at UNIP and a **former English Teacher** with 3+ years of experience.
 
-Currently, I am focused on applying the communication, didactics, and organization skills I developed as a teacher to the world of software development. My goal is to use my passion for technology to solve problems and create efficient solutions.
-
-I am **actively looking for an internship opportunity** to apply and expand my knowledge in a professional environment.
+Currently, I work as a **Demand Planning and Systems Automation Intern at EssilorLuxottica**. In this role, I focus on applying my passion for technology—along with the communication and organizational skills I developed as a teacher—to solve complex problems and create efficient, automated solutions.
 
 - 🎓 **Computer Science Major** (5th Semester) at UNIP.
-- 👨‍🏫 **English Teacher** (3+ years of experience).
-- 🚀 **Seeking an internship** in Software Development / Data Analysis.
+- 💼 **Demand Planning & Systems Automation Intern** at EssilorLuxottica.
+- 👨‍🏫 **Former English Teacher** (3+ years of experience).
+- 🚀 **Passionate about** Software Development & Data Analysis.
 
 <br />
 <div align="center">
