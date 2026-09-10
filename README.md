@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science student (5th Semester)** at UNIP and **English Teacher** with 3+ years of experience.
+I am a **Computer Science student (6th Semester)** at UNIP and **English Teacher** with 3+ years of experience.
 
-Currently, I work as a **Demand Planning and Systems Automation Intern at EssilorLuxottica**. In this role, I focus on applying my passion for technology—along with the communication and organizational skills I developed as a teacher—to solve complex problems and create efficient, automated solutions.
+Currently, I work as a **Distribution Planning and Systems Automation Intern at EssilorLuxottica**. In this role, I focus on applying my passion for technology—along with the communication and organizational skills I developed as a teacher—to solve complex problems and create efficient, automated solutions.
 
-- 🎓 **Computer Science Major** (5th Semester) at UNIP.
-- 💼 **Demand Planning & Systems Automation Intern** at EssilorLuxottica.
+- 🎓 **Computer Science Major** at UNIP.
+- 💼 **Distribution Planning & Systems Automation Intern** at EssilorLuxottica.
 - 👨‍🏫 **English Teacher** (3+ years of experience).
 - 🚀 **Passionate about** Software Development & Data Analysis.
 
